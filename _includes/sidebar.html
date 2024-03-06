@@ -42,6 +42,17 @@
     </ul>
   </nav>
 
+  <div class="profile-wrapper">
+    <a href="{{ '/' | relative_url }}" id="funding" class="">
+      {%- if site.funding != empty and site.funding -%}
+        {%- capture funding_url -%}
+          {% include img-url.html src=site.funding %}
+        {%- endcapture -%}
+        <img src="{{- funding_url -}}" width="250" height="250" alt="avatar" onerror="this.style.display='none'">
+      {%- endif -%}
+    </a>
+  </div>
+  
   <div class="sidebar-bottom d-flex flex-wrap  align-items-center w-100">
     {% unless site.theme_mode %}
       <button type="button" class="mode-toggle btn" aria-label="Switch Mode">
