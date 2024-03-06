@@ -13,5 +13,5 @@ E-Mail: [philipp.leibner@ifs.rwth-aachen.de](mailto:philipp.leibner@ifs.rwth-aac
 
 
 <div>  
-<a href=""><img src="https://www.ifs.rwth-aachen.de/fileadmin/images/rwth_ifs_de_rgb.png" alt="IFS Logo" width="200"></a>
+<a href="https://www.ifs.rwth-aachen.de/"><img src="https://www.ifs.rwth-aachen.de/fileadmin/images/rwth_ifs_de_rgb.png" alt="IFS Logo" width="200"></a>
 </div>
