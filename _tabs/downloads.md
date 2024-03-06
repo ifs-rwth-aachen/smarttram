@@ -6,4 +6,4 @@ title: Downloads
 ---
 
 # Pressemitteilungen
-Die Pressemitteilung zum Start des Vorhabens Smart.TRAM findet sich [hier](/assets/pdf/Smart_TRAM_mFUND_Pressemitteilung_20231019.pdf){:target="_blank"}
+Die Pressemitteilung zum Start des Vorhabens Smart.TRAM findet sich [hier](assets/pdf/Smart_TRAM_mFUND_Pressemitteilung_20231019.pdf){:target="_blank"}
