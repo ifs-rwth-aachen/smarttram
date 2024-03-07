@@ -28,3 +28,8 @@ Zur Durchführung des Projektes werden Smartphones und ggf. zusätzliche Sensore
 - **Projektpartner**: 
 	- Institut für Schienenfahrzeuge und Transportsystem (IFS), Aachen
 	- Siemens Mobility GmbH, Erlangen
+
+
+
+
+![funding](/assets/img/logo/bmdv_mfund.png){: w="500" h="400" }
