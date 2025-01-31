@@ -31,6 +31,7 @@ Zur Durchführung des Projektes werden Smartphones und ggf. zusätzliche Sensore
 - **Assoziierte Partner** (ohne Förderung/ideell unterstützend):
 	- Verkehrsgesellschaft Frankfurt am Main (VGF) mbH
 	- Rurtalbahn GmbH
+  - RWE Power AG
 	- Verband Deutscher Verkehrsunternehmen (VDV)
 	- OecherLab
 

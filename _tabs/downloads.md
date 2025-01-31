@@ -12,4 +12,4 @@ Die Pressemitteilung zum Start des Vorhabens Smart.TRAM findet sich [hier](/smar
 
 ### 2024
 
-[1] P. Leibner, J. Goersch, und C. Schindler, „Smart.TRAM: Smartphone-basierte Gleisüberwachung für eine digialisierte Instandhaltungsplanung“, Der Nahverkehr, Nr. 09/2024, S. 65–67, Sep. 2024. Online verfügbar: [https://öpnv-archiv.de/SingleView.aspx?show=9469249](https://öpnv-archiv.de/SingleView.aspx?show=9469249)
+[1] P. Leibner, J. Goersch, und C. Schindler, „Smart.TRAM: Smartphone-basierte Gleisüberwachung für eine digitalisierte Instandhaltungsplanung“, Der Nahverkehr, Nr. 09/2024, S. 65–67, Sep. 2024. Online verfügbar: [https://öpnv-archiv.de/SingleView.aspx?show=9469249](https://öpnv-archiv.de/SingleView.aspx?show=9469249)
