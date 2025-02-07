@@ -3,6 +3,7 @@
 icon: fas fa-info-circle
 order: 1
 title: Projektinfo
+description: Projektbeschreibung und Projektinfo für das vom BMDV geförderte mFUND Projekt Smart.TRAM.
 toc: true
 ---
 
