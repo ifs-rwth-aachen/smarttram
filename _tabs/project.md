@@ -11,7 +11,7 @@ toc: true
 _Smart.TRAM_
 
 
-Smart.TRAM (Smartphone-based Track Monitoring for digitalized Maintenance Planning of Railway Infrastructure) ist ein Förderprojekt aus der [mFUND](https://bmdv.bund.de/DE/Themen/Digitales/mFund/Ueberblick/ueberblick.html) Förderung des Bundesministerium für Digitales und Verkehr. Auf dieser Projektwebsite informieren laufend über Projektergebnisse und über das Thema Track Monitoring im Allgemeinen. Eine Kurzinfo zum Projekt findet nachfolgend:
+Smart.TRAM (Smartphone-based Track Monitoring for digitalized Maintenance Planning of Railway Infrastructure) ist ein Förderprojekt aus der [mFUND](https://bmdv.bund.de/DE/Themen/Digitales/mFund/Ueberblick/ueberblick.html) Förderung des Bundesministeriums für Digitales und Verkehr. Auf dieser Projektwebsite informieren laufend über Projektergebnisse und über das Thema Track Monitoring im Allgemeinen. Eine Kurzinfo zum Projekt findet nachfolgend:
 
 # Problemstellung
 Der zuverlässige Betrieb von schienengebundenem Verkehr hängt in hohem Maße von dem Zustand der Gleisinfrastruktur ab. Im Bereich des städtischen Nahverkehrs werden die aufwendigen Überprüfungen bisher hauptsächlich manuell durchgeführt. Die Kombination von nachrüstbaren mobilen Messsystemen und Datenplattformen bietet das Potenzial, diese Prozesse zu automatisieren sowie den Zustand besser analysieren und prognostizieren zu können, um so die Zuverlässigkeit des ÖPNV zu steigern.
@@ -27,7 +27,7 @@ Zur Durchführung des Projektes werden Smartphones und ggf. zusätzliche Sensore
 - **Projektvolumen**: 1.662.291 Euro (davon 70 % Förderquote durch BMDV)
 - **Projektlaufzeit**: 10/2023 bis 09/2026
 - **Projektpartner**: 
-	- Institut für Schienenfahrzeuge und Transportsystem (IFS), Aachen
+	- Institut für Schienenfahrzeuge (IFS), Aachen
 	- Siemens Mobility GmbH, Erlangen
 - **Assoziierte Partner** (ohne Förderung/ideell unterstützend):
 	- Verkehrsgesellschaft Frankfurt am Main (VGF) mbH

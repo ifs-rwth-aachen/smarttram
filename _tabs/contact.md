@@ -5,7 +5,7 @@ order: 5
 title: Kontakt
 ---
 
-Institut für Schienenfahrzeuge und Transportsystem (IFS) der RWTH Aachen University
+Institut für Schienenfahrzeuge (IFS) der RWTH Aachen University
 
 Philipp Leibner, M.Sc.\
 Tel.: +49 241 80-25581\
