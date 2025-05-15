@@ -12,3 +12,5 @@ Neben einer Übersicht der Projektinhalte haben wir unsere bisher erarbeiteten E
 Im Anschluss an unsere Präsentation gab es eine interessante Diskussionsrunde zum Thema.
 
 Wir bedanken uns für die Einladung und die gute Diskussion am Ende des Vortrags!
+
+[Hier](https://www.innocam.nrw/nachbericht-zum-innocam-stammtisch-smart-tram-smartphone-basierte-gleisueberwachung-fuer-die-digitalisierte-instandhaltungsplanung-der-eisenbahninfrastruktur/) geht es zum Nachbericht vom innocam.STAMMTISCH.
