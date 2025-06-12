@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Smart.TRAM zu Gast beim innocam.STAMMTISCH
-date: 2025-06-12 11:14 +0100
+date: 2025-06-12 10:00 +0100
 author: lei
 toc: false
 ---
