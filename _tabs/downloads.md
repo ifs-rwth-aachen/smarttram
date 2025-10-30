@@ -14,7 +14,7 @@ title: Downloads
 ### 2025
 
 [1]
-J. Goersch, P. Leibner, B. Neubauer, T. Hempel, and R. Pfaff, “Development of a Scalable Digital Twin for Tram and Light-rail Infrastructure based on Open Data for Early Prediction of Rail and Track Defects”, PHM_CONF, vol. 17, no. 1, Oct. 2025. Online verfügbar: [https://papers.phmsociety.org/index.php/phmconf/article/view/4336](...)
+J. Goersch, P. Leibner, B. Neubauer, T. Hempel, and R. Pfaff, “Development of a Scalable Digital Twin for Tram and Light-rail Infrastructure based on Open Data for Early Prediction of Rail and Track Defects”, PHM_CONF, vol. 17, no. 1, Oct. 2025. Online verfügbar: [https://papers.phmsociety.org/index.php/phmconf/article/view/4336](https://papers.phmsociety.org/index.php/phmconf/article/view/4336)
 
 ## Open Source Code
 
