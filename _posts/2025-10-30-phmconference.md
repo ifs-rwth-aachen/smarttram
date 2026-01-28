@@ -17,4 +17,4 @@ Architektur unseres digitalen Zwillings und gehen auf zukünftige Arbeiten, wie 
 Auf der Konferenz konnten wir Feedback zu unserer Arbeit einholen und mit anderen Forschenden und Teilnehmenden der 
 Konferenz aus der Industrie diskutieren und uns austauschen.
 
-Sie finden den in Englisch verfassten Konferenzbeitrag verlinkt im Bereich "Downloads" auf dieser Website.
+Sie finden den in Englisch verfassten Konferenzbeitrag verlinkt im Bereich [Downloads](https://ifs-rwth-aachen.github.io/smarttram/downloads/) auf dieser Website.
