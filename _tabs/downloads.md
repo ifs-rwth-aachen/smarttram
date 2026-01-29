@@ -16,6 +16,9 @@ title: Downloads
 [1]
 J. Goersch, P. Leibner, B. Neubauer, T. Hempel, and R. Pfaff, “Development of a Scalable Digital Twin for Tram and Light-rail Infrastructure based on Open Data for Early Prediction of Rail and Track Defects”, PHM_CONF, vol. 17, no. 1, Oct. 2025. Online verfügbar: [https://papers.phmsociety.org/index.php/phmconf/article/view/4336](https://papers.phmsociety.org/index.php/phmconf/article/view/4336)
 
+[2]
+P. Leibner, J. Goersch, B. Neubauer, T. Hempel, C. Schindler, und R. Pfaff, "Entwicklung eines integrierten digitalen Zwillings auf Basis von Open Data für die Gleisinstandhaltung mittels Smartphone Sensorik", 5. International Railway Symposium Aachen , Aachen , Germany, Nov. 2025. Online verfügbar: [https://publications.rwth-aachen.de/record/1024828](https://publications.rwth-aachen.de/record/1024828)
+
 ## Open Source Code
 
 [Smart.TRAM-Video Anonymization](https://github.com/ifs-rwth-aachen/Smart.TRAM-Video-Anonymization)
