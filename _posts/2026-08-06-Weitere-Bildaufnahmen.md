@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bildaufnahmen
+title: Bildaufnahmen verbleibener Linien
 date: 2026-08-06 13:50 +0100
 author: goe
 toc: false
