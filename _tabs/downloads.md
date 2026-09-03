@@ -22,6 +22,7 @@ P. Leibner, J. Goersch, B. Neubauer, T. Hempel, C. Schindler, und R. Pfaff, "Ent
 ### 2026
 
 [4] P. Leibner, J. Goersch and R. Pfaff, "Large-Scale Monitoring of Urban Rail Infrastructure and Operations Using Smartphone Sensing Data", in J. Pombo, (Editor), "Proceedings of the Seventh International Conference on Railway Technology: Research, Development and Maintenance ", Civil-Comp Press, Edinburgh, UK, Online volume: CCC 15, Paper 8.13, 2026, [doi:10.4203/ccc.15.8.13](https://doi.org/10.4203/ccc.15.8.13)
+
 ## Open Source Code
 
 [Smart.TRAM-Video Anonymization](https://github.com/ifs-rwth-aachen/Smart.TRAM-Video-Anonymization)
