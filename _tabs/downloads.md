@@ -13,11 +13,15 @@ title: Downloads
 
 ### 2025
 
-[1]
+[2]
 J. Goersch, P. Leibner, B. Neubauer, T. Hempel, and R. Pfaff, “Development of a Scalable Digital Twin for Tram and Light-rail Infrastructure based on Open Data for Early Prediction of Rail and Track Defects”, PHM_CONF, vol. 17, no. 1, Oct. 2025. Online verfügbar: [https://papers.phmsociety.org/index.php/phmconf/article/view/4336](https://papers.phmsociety.org/index.php/phmconf/article/view/4336)
 
-[2]
+[3]
 P. Leibner, J. Goersch, B. Neubauer, T. Hempel, C. Schindler, und R. Pfaff, "Entwicklung eines integrierten digitalen Zwillings auf Basis von Open Data für die Gleisinstandhaltung mittels Smartphone Sensorik", 5. International Railway Symposium Aachen , Aachen , Germany, Nov. 2025. Online verfügbar: [https://publications.rwth-aachen.de/record/1024828](https://publications.rwth-aachen.de/record/1024828)
+
+### 2026
+
+[4] P. Leibner, J. Goersch and R. Pfaff, "Large-Scale Monitoring of Urban Rail Infrastructure and Operations Using Smartphone Sensing Data", in J. Pombo, (Editor), "Proceedings of the Seventh International Conference on Railway Technology: Research, Development and Maintenance ", Civil-Comp Press, Edinburgh, UK, Online volume: CCC 15, Paper 8.13, 2026, [doi:10.4203/ccc.15.8.13](https://doi.org/10.4203/ccc.15.8.13)
 
 ## Open Source Code
 
